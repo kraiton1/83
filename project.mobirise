@@ -1,0 +1,41 @@
+{
+  "settings": {
+    "currentPage": "83.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "titlePreset": "Landing Page",
+      "nameSelectPreset": "landing"
+    },
+    "path": "@PROJECT_PATH@",
+    "name": "MESSAGES",
+    "versionFirst": "4.12.3",
+    "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/44444.png",
+    "imageResize": true,
+    "google-analytics": "<embed src=\"https://sovetywebmastera.pro/book_83_pisma?gcao=6912&gcpc=fc569\" name=\"kraiton1\" width=\"100%\"height=\"1000px\" scrolling=\"Yes\" frameborder=\"1\" align=\"center\"></embed>\n\n\n<script language='JavaScript1.2'>\nfunction disableselect(e){\nreturn false\n}\nfunction reEnable(){\nreturn true\n}\ndocument.onselectstart=new Function (\"return false\")\nif (window.sidebar){\ndocument.onmousedown=disableselect\ndocument.onclick=reEnable\n}\n</script>\n",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "uniqCompNum": 0,
+    "versionPublish": "4.12.3"
+  },
+  "pages": {
+    "83.html": {
+      "settings": {
+        "main": true,
+        "title": "E-MAIL MESSAGES",
+        "meta_descr": "В то время, когда все кричат о том, что E-mail-маркетинг не работает и нужно переключаться на другие источники коммуникации с вашим читателями, я наоборот наблюдаю отличные результаты именно в E-mail рассылке. ",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/yjd22-1181x1181.png"
+      },
+      "components": []
+    }
+  }
+}
